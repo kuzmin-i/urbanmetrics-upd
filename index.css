@@ -1,0 +1,36 @@
+@import "vendor/normalize.css";
+@import "vendor/fonts/PTSans.css";
+@import "vendor/fonts/OpenSans.css";
+@import "vendor/fonts/Exo.css";
+@import "blocks/page/page.css";
+@import "blocks/header/header.css";
+@import "blocks/main/main.css";
+@import "blocks/footer/footer.css";
+@import "blocks/success/success.css";
+
+@font-face {
+    font-family: "PTRootUI";
+    src: url("public/fonts/PTRootUI-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "PTRootUI";
+    src: url("public/fonts/PTRootUI-Medium.ttf") format("truetype");
+    font-weight: medium;
+    font-style: normal;
+  }
+  
+  @import "blocks/mainpage/mainpage.css";
+  @import "blocks/screen/screen.css";
+
+  @import "blocks/bar/bar.css";
+  @import "blocks/cover/cover.css";
+  @import "blocks/analyzes/analyzes.css";
+  @import "blocks/formats/formats.css";
+  @import "blocks/partners/partners.css";
+  @import "blocks/price/price.css";
+  @import "blocks/form/form.css"
+  
+  

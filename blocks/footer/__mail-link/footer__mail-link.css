@@ -1,0 +1,16 @@
+.footer__mail-link {
+    font-size: 27px;
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+    color: white;
+    margin: 0;
+}
+
+
+
+.footer__mail-link:hover {
+    color: #999DA5;
+    border-bottom: 1px solid #999DA5;
+    text-decoration: none;
+}

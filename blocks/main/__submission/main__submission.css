@@ -1,0 +1,7 @@
+.main__submission {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    margin: 60px 0 100px 0;
+}

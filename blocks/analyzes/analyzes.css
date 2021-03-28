@@ -1,0 +1,25 @@
+@import "__item/analyzes__item.css";
+@import "__header/analyzes__header.css";
+@import "__h3/analyzes__h3.css";
+@import "__h4/analyzes__h4.css";
+@import "__h5/analyzes__h5.css";
+@import "__p4/analyzes__p4.css";
+
+@import "__list/analyzes__list.css";
+@import "__card/analyzes__card.css";
+@import "__content/analyzes__content.css";
+@import "__examples/analyzes__examples.css";
+
+@import "__link/analyzes__link.css";
+@import "__linkList/analyzes__linkList.css";
+@import "__linkComponent/analyzes__linkComponent.css";
+
+@import "__comment/analyzes__comment.css";
+
+.analyzes {
+    position: relative;
+    margin-top: 70px;
+    padding: 90px 33px 20px;
+    border-radius: 25px;
+    background-color: #0f2953;
+}

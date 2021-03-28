@@ -1,0 +1,7 @@
+.main__contacts-form-info {
+    display: flex;
+    gap: 22px;
+    width: 85%;
+    margin: 60px 40px;
+    align-items: center;
+}

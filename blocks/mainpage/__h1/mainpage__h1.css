@@ -1,0 +1,12 @@
+.mainpage__h1 {
+    margin-bottom: 15px;
+    font-size: 6.2rem;
+    line-height: 140%;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+  }
+  
+.mainpage__h1.footer {
+    margin-top: 0px !important;
+    font-size: 60px !important;
+  }

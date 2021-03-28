@@ -1,0 +1,19 @@
+.cover__image {
+    position: absolute;
+    left: 234.22px;
+    top: -203.72px;
+    width: 248.2vh;
+    height: 189.87vh;
+    max-height: 1481px;
+    max-width: 1936px;
+    margin-top: 0px;
+    background-image: url('/images/cover_1.png');
+    background-position: 0px 0px;
+    background-size: cover;
+}
+
+@media (max-width: 1000px) {
+    .cover__image {
+        display: none
+    }
+}

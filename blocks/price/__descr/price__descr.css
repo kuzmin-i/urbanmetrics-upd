@@ -1,0 +1,9 @@
+.price__descr {
+    display: block;
+    padding-top: 17px;
+    padding-bottom: 0px;
+}
+
+.price__descr--first {
+    padding-bottom: 17px;
+}

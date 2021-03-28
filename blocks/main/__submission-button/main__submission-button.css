@@ -1,0 +1,28 @@
+.main__submission-button {
+    background-color: #0DA3DC;
+    border: 1px solid #2989BF;
+    border-radius: 5px;
+    color: white;
+    width: 265px;
+    height: 60px;
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 160%;
+    letter-spacing: 0.02em;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    transition: ease-in-out 200ms;
+}
+
+.main__submission-button:disabled {
+    background: #757575;
+}
+
+.main__submission-button:disabled:hover {
+    background: #757575;
+}
+
+.main__submission-button:hover {
+    background: #0A7BA6;
+}

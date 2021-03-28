@@ -1,0 +1,17 @@
+.main__place-form-button {
+    display: none;
+    grid-area: button;
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 5px;
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 160%;
+    letter-spacing: 0.02em;
+    color: #2A345C;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    padding: 0;
+}

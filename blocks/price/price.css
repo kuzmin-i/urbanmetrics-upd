@@ -1,0 +1,31 @@
+@import "__card/price__card.css";
+@import "__gap/price__gap.css";
+
+@import "__icon/price__icon.css";
+@import "__list/price__list.css";
+@import "__header/price__header.css";
+@import "__cost/price__cost.css";
+@import "__descr/price__descr.css";
+
+@import "__h3/price__h3.css";
+@import "__p3/price__p3.css";
+
+.price {
+    -webkit-box-align: start;
+    -webkit-align-items: start;
+    -ms-flex-align: start;
+    align-items: start;
+    grid-column-gap: 0px;
+    -ms-grid-columns: 1fr 64px 1fr 64px 1fr;
+    grid-template-columns: 1fr 64px 1fr 64px 1fr;
+    position: relative;
+    z-index: 4900;
+    display: -ms-grid;
+    display: grid;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    grid-auto-columns: 1fr;
+    grid-row-gap: 16px;
+    grid-template-rows: auto;
+    color: #fff
+}

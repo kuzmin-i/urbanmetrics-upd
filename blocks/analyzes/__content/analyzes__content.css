@@ -1,0 +1,7 @@
+.analyzes__content {
+    width: 100%;
+    max-width: 600px;
+    -webkit-align-self: flex-start;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+}

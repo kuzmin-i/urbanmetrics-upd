@@ -1,0 +1,14 @@
+.main__result-calc-text {
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0.01em;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0 0 4px 40px;
+}
+
+.main__result-calc-text:nth-of-type(1) {
+    margin: 40px 0 0 40px;
+}

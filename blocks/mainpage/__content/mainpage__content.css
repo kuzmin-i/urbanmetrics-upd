@@ -1,0 +1,11 @@
+.mainpage__content {
+    position: relative;
+    overflow: visible;
+    width: 100%;
+    max-width: 1170px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 0px;
+    padding-left: 0px;
+}

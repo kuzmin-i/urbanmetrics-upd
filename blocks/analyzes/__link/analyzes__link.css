@@ -1,0 +1,9 @@
+.analyzes__link {
+    min-height: 20px;
+    padding-left: 15px;
+    color: #ee775f;
+    font-size: 16px;
+    line-height: 120%;
+    font-weight: 500;
+    text-decoration: none;
+}

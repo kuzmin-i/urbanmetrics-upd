@@ -1,0 +1,7 @@
+.main__forms-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 27px;
+    width: 100%;
+}

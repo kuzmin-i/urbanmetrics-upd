@@ -1,0 +1,9 @@
+.bar__logo {
+    width: 162px;
+    height: 15.75px;
+    margin-right: 20px;
+    background-color: rgba(86, 86, 99, 0);
+    background-image: url(/images/Bar_logo.svg);
+    background-position: 0px 0px;
+    background-size: auto;
+}

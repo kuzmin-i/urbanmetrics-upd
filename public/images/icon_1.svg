@@ -1,0 +1,50 @@
+<svg width="143" height="143" viewBox="0 0 143 143" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="1.04382" width="143" height="141.956" rx="35" fill="#FBD6BC"/>
+<g style="mix-blend-mode:color-burn">
+<rect x="1" width="142" height="143" fill="url(#paint0_radial)" fill-opacity="0.4"/>
+</g>
+<rect x="35.8387" y="24.8264" width="44.1196" height="44.8111" stroke="black" stroke-width="2.59527"/>
+<rect x="74.1191" y="30.9786" width="12.1902" height="11.6787" rx="5.83936" transform="rotate(-90 74.1191 30.9786)" fill="#53A4F9"/>
+<rect x="74.1191" y="75.6759" width="12.1902" height="11.6787" rx="5.83936" transform="rotate(-90 74.1191 75.6759)" fill="#53A4F9"/>
+<rect x="30" y="30.9786" width="12.1902" height="11.6787" rx="5.83936" transform="rotate(-90 30 30.9786)" fill="#53A4F9"/>
+<rect x="30" y="75.6759" width="12.1902" height="11.6787" rx="5.83936" transform="rotate(-90 30 75.6759)" fill="#53A4F9"/>
+<g filter="url(#filter0_d)">
+<rect x="62.0352" y="41.1703" width="51.8204" height="54.0899" rx="6.25418" fill="#4F4F4F"/>
+</g>
+<g filter="url(#filter1_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M75.9581 80.8875C76.4366 81.7675 76.6651 82.7997 76.555 83.8696C76.274 86.6005 73.8928 88.5427 71.2365 88.2076C68.5802 87.8726 66.6546 85.3871 66.9357 82.6562C67.2167 79.9253 69.5979 77.9831 72.2542 78.3182C72.6594 78.3693 73.0476 78.4704 73.4135 78.6148L97.6407 52.4281L53.8384 72.1912C53.5219 72.334 53.1525 72.2953 52.8371 72.1358C51.6994 71.5603 49.126 70.8171 51.1005 77.2653C54.2924 87.6892 49.7117 95.8789 47.0009 98.6775L40.6976 105.682C40.335 106.085 40.3628 106.774 40.8911 106.927C42.1044 107.278 43.1701 105.936 44.2589 104.565C46.076 102.277 47.9577 99.9081 50.698 105.191C51.0215 105.814 51.8536 106.004 52.349 105.528L57.0763 100.98C63.4193 94.1677 70.8962 96.9615 75.2619 98.5928C75.4354 98.6576 75.6039 98.7206 75.7673 98.7811C76.039 98.8816 76.3371 98.8573 76.5855 98.7175L82.9285 95.1495C83.1135 95.0455 83.2589 94.8836 83.3433 94.688L100.95 53.8737L75.9581 80.8875Z" fill="white"/>
+</g>
+<g filter="url(#filter2_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M77.8748 78.6982C78.7214 79.9652 79.2178 81.506 79.2178 83.1678C79.2178 87.4879 75.8626 90.9901 71.7237 90.9901C67.5848 90.9901 64.2295 87.4879 64.2295 83.1678C64.2295 78.8476 67.5848 75.3454 71.7237 75.3454C73.4722 75.3454 75.0809 75.9704 76.3558 77.0182L101.142 51.146L61.7312 63.6118L61.754 63.6351C53.01 66.8499 46.7429 75.5486 46.7429 85.7752C46.7429 88.6448 47.2364 91.394 48.1395 93.9356L38 105.485L52.1223 118.993L61.8245 107.941C64.1421 108.784 66.6325 109.242 69.2254 109.242C80.3073 109.242 89.5166 100.873 91.3685 89.8598L102.118 53.393L77.8748 78.6982Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d" x="62.0352" y="41.1703" width="54.8204" height="58.0899" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="3" dy="4"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="40.4551" y="52.4281" width="63.4953" height="61.5553" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="3" dy="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter2_d" x="38" y="51.146" width="67.1182" height="74.847" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="3" dy="7"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(72 88.2007) rotate(90) scale(69.9343 69.4453)">
+<stop stop-color="#494949"/>
+<stop offset="1" stop-color="#C4C4C4" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

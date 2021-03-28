@@ -1,0 +1,6 @@
+.footer__mail-container {
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    max-width: 380px;
+}

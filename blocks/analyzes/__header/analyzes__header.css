@@ -1,0 +1,35 @@
+.analyzes__header {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 0px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.analyzes__header--arrow {
+    width: 30px;
+    height: 20px;
+    margin-top: 8px;
+    -webkit-align-self: flex-start;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
+    background-color: hsla(0, 0%, 59.3%, 0);
+    background-image: url(/images/Arrow-down.svg);
+    background-position: 0px 0px;
+    background-size: auto;
+}
+
+.analyzes__header--arrow.r {
+    -moz-transform:rotate(180deg);
+    -webkit-transform:rotate(180deg);
+    transform:rotate(180deg);
+}

@@ -1,0 +1,30 @@
+@import "__subtitle/main__subtitle.css";
+@import "__text/main__text.css";
+@import "./__map/main__map.css";
+@import "./__forms-container/main__forms-container.css";
+@import "./__place-form/main__place-form.css";
+@import "./__result-calc/main__result-calc.css";
+@import "./__contacts-form/main__contacts-form.css";
+@import "./__contacts-form-fieldset/main__contacts-form-fieldset.css";
+@import "./__contacts-form-input/main__contacts-form-input.css";
+@import "./__contacts-form-info/main__contacts-form-info.css";
+@import "./__contacts-form-title/main__contacts-form-title.css";
+@import "./__contacts-form-link/main__contacts-form-link.css";
+@import "./__contacts-form-text/main__contacts-form-text.css";
+@import "./__submission/main__submission.css";
+@import "./__submission-text/main__submission-text.css";
+@import "./__submission-button/main__submission-button.css";
+@import "./__submission-container/main__submission-container.css";
+@import "__content/main__content.css";
+
+.main {
+    background: #446FA3;
+    margin: 0 auto;
+    max-width: 1170px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: center;
+    border-radius: 25px;
+    border: 1px #809CC7;
+}

@@ -1,0 +1,9 @@
+.main__place-form-inputs {
+    grid-area: input;
+    display: flex;
+    gap: 12px;
+    justify-content: space-between;
+    border: none;
+    padding: 0;
+    margin: 20px 0 0 0;
+}

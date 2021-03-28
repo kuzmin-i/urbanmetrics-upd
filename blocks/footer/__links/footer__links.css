@@ -1,0 +1,24 @@
+.footer__links {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.footer__links a {
+    padding-left: 19px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff
+}
+
+.footer__links a:hover {
+    color: #999DA5;
+    text-decoration: none
+}
+
+.footer__links p {
+    padding-left: 20px;
+    color: #fff;
+    opacity: .2
+}

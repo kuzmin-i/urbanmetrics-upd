@@ -1,0 +1,16 @@
+@import "./_type/_scale/main__place-form-input_type_scale.css";
+@import "./_type/_type/main__place-form-input_type_type.css";
+@import "./_type/_export/main__place-form-input_type_export.css";
+
+.main__place-form-input {
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    background: rgba(154, 171, 196, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 3px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0.01em;
+    color: white;
+    min-height: 48px;
+}

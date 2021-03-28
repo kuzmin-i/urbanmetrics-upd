@@ -1,0 +1,19 @@
+@import "./__container/footer__container.css";
+@import "./__logo/footer__logo.css";
+@import "./__mail/footer__mail.css";
+@import "./__mail-link/footer__mail-link.css";
+
+@import "__bottom/footer__bottom.css";
+@import "__links/footer__links.css";
+
+.footer {
+    margin-bottom: 100px;
+    color: white
+}
+
+.footer hr {
+    width: 100%;
+    height: 1px;
+    background-color: hsla(0, 0%, 100%, 0.2);
+}
+

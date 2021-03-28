@@ -1,0 +1,9 @@
+.success__container {
+    width: 100%;
+    background: #446FA3;
+    border: 1px solid #809CC7;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}

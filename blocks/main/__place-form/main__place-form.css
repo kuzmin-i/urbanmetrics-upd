@@ -1,0 +1,10 @@
+@import "./-address/main__place-form-address.css";
+@import "./-button/main__place-form-button.css";
+@import "./-inputs/main__place-form-inputs.css";
+@import "-input/main__place-form-input.css";
+
+.main__place-form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}

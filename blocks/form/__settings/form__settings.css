@@ -1,0 +1,10 @@
+.form__settings {
+    display: block;
+    width: 336px;
+    grid-auto-columns: 1fr;
+    grid-template-areas: "Area Area";
+    -ms-grid-columns: 1fr 264px 264px;
+    grid-template-columns: 1fr 264px 264px;
+    -ms-grid-rows: 60px 50px;
+    grid-template-rows: 60px 50px;
+}

@@ -1,0 +1,16 @@
+.formats__icon {
+    position: static;
+    left: auto;
+    top: 0%;
+    right: 0%;
+    bottom: auto;
+    width: 120px;
+    height: 120px;
+    margin-top: -50px;
+    margin-bottom: 11px;
+    margin-left: auto;
+    border-radius: 0px;
+    background-image: url(/images/b_1.svg);
+    background-position: 0px 0px;
+    background-size: auto;
+}

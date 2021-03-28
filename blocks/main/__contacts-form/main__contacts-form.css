@@ -1,0 +1,8 @@
+.main__contacts-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #1A3A6A;
+    border-radius: 18px;
+    max-width: 640px;
+}

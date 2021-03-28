@@ -1,0 +1,8 @@
+.price__list {
+    display: block;
+    margin-bottom: 16px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}

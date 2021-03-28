@@ -1,0 +1,44 @@
+.partners__logo {
+    width: 270px;
+    height: 115px;
+    background-color: hsla(0, 0%, 68%, 0);
+    background-size: cover;
+}
+
+@media (max-width: 1330px) {
+    .partners__logo {
+        width: 20.3vw;
+        height: 8.84vw;
+        background-color: hsla(0, 0%, 68%, 0);
+    }
+}
+
+.partners__logo._1 {
+    background-image: url(/images/Partner_1.svg);
+    background-position: 0px 0px;
+}
+
+.partners__logo._2 {
+    background-image: url(/images/Partner_2.svg);
+    background-position: 0px 0px;
+}
+
+.partners__logo._3 {
+    background-image: url(/images/Partner_3.svg);
+    background-position: 0px 0px;
+}
+
+.partners__logo._4 {
+    background-image: url(/images/Partner_4.svg);
+    background-position: 0px 0px;
+}
+
+.partners__logo._5 {
+    background-image: url(/images/Partner_5.svg);
+    background-position: 0px 0px;
+}
+
+.partners__logo._6 {
+    background-image: url(/images/Partner_6.svg);
+    background-position: 0px 0px;
+}

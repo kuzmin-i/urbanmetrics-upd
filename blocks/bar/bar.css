@@ -1,0 +1,10 @@
+@import "__content/bar__content.css";
+@import "__logo/bar__logo.css";
+@import "__link/bar__link.css";
+
+.bar {
+    position: relative;
+    z-index: 5000;
+    width: 100%;
+    color: #ffffff;
+}

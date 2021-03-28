@@ -1,0 +1,27 @@
+.mainpage__cta {
+        display: inline-block;
+        width: 100%;
+        max-width: 285px;
+        padding: 13px 0px;
+        border: 1px none #6fd4ec;
+        border-radius: 5px;
+        background-color: #ee775f;
+        color: #fff;
+        font-size: 21px;
+        line-height: 160%;
+        font-weight: 500;
+        text-align: center;
+        letter-spacing: 0.4px;
+        text-decoration: none;
+      
+}
+
+.mainpage__cta:hover {
+    background-color: #e36951;
+    text-decoration: none;
+    color: #fff
+}
+
+
+  
+  

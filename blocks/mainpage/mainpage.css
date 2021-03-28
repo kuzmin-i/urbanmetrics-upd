@@ -1,0 +1,27 @@
+@import "__h1/mainpage__h1.css";
+@import "__h2/mainpage__h2.css";
+@import "__h3/mainpage__h3.css";
+@import "__h4/mainpage__h4.css";
+
+@import "__p1/mainpage__p1.css";
+@import "__p2/mainpage__p2.css";
+@import "__p3/mainpage__p3.css";
+@import "__p4/mainpage__p4.css";
+
+@import "__cta/mainpage__cta.css";
+
+@import "__p80/mainpage__p80.css";
+@import "__content/mainpage__content.css";
+
+
+.maincontent, .body {
+    background-color: #020D21 !important;
+    font-family: 'PTRootUI', sans-serif;
+    font-size: 16px;
+    font-weight: medium;
+    overflow: hidden;
+  }
+
+.white {
+  color: white
+}
