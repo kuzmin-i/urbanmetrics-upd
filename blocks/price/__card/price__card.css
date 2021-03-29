@@ -9,3 +9,10 @@
     padding-right: 33px;
     padding-left: 33px;
 }
+
+@media screen and (max-width: 991px) {
+    .price__card {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}

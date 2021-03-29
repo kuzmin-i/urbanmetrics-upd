@@ -22,3 +22,9 @@
     color: #fff;
     opacity: .2
 }
+
+@media screen and (max-width: 991px) {
+    .footer__links {
+        margin-left: -19px;
+    }
+}

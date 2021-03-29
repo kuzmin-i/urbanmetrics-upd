@@ -9,3 +9,14 @@
     padding: 103px 45px 80px;
     border-radius: 25px;
 }
+
+@media screen and (max-width: 991px) {
+    .formats__card {
+        margin-top: 70px;
+        padding-bottom: 50px;
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 auto;
+        -ms-flex: 0 auto;
+        flex: 0 auto;
+    }
+}

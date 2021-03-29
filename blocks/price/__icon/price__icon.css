@@ -13,5 +13,14 @@
     background-color: #fde2cf;
     background-image: url(/images/b_2.svg);
     background-position: 0px 0px;
-    background-size: auto;
+    background-size: cover;
 }
+
+@media screen and (max-width: 991px) {
+    .price__icon {
+        width: 70px;
+        height: 70px;
+        margin-top: -40px;
+    }
+}
+

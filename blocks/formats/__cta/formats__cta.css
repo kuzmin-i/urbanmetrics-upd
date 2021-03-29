@@ -9,3 +9,9 @@
     float: none;
     clear: none;
 }
+
+@media screen and (max-width: 991px) {
+    .formats__cta {
+        margin-top: 30px
+    }
+}

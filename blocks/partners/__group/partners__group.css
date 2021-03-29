@@ -11,3 +11,14 @@
     -ms-grid-rows: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
 }
+
+@media screen and (max-width: 991px) {
+    .partners__group {
+        grid-column-gap: 4vw; 
+        grid-row-gap: 20px;
+        -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+        -ms-grid-rows: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    }
+} 

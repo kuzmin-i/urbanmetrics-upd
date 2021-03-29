@@ -13,6 +13,7 @@ const BarPanel = () => {
           <a href="#formApp" className="bar__link">
             Заказать карту
           </a>
+          <div className="bar__navigation"/>
         </div>
       </div>
     </div>

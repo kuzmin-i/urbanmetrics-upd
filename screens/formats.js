@@ -5,7 +5,7 @@ const FormatsScreen = ({ formatexport }) => {
     return (
       <div className="formats__card" key={i}>
         <div className={"formats__icon _" + a.id} />
-        <div className="card_content">
+        <div className="formats__content">
           <h1 className="mainpage__h3 formats__h3">{a.title}</h1>
           <p className="mainpage__p2">
             {a.description.map((b, desc_i) => {

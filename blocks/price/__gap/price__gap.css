@@ -12,5 +12,12 @@
     background-color: hsla(0, 0%, 64%, 0);
     background-image: url(/images/icon_multiply.svg);
     background-position: 0px 0px;
-    background-size: auto;
+    background-size: cover;
+}
+
+@media screen and (max-width: 991px) {
+    .price__gap--icon {
+        width: 20px;
+        height: 20px;
+    }
 }

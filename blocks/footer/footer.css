@@ -17,3 +17,10 @@
     background-color: hsla(0, 0%, 100%, 0.2);
 }
 
+@media screen and (max-width: 991px) {
+    .footer hr {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}
+

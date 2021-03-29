@@ -13,6 +13,13 @@
     }
 }
 
+@media (max-width: 991px) {
+    .partners__logo {
+        width: 24.3vw;
+        height: 10.6vw;
+    }
+}
+
 .partners__logo._1 {
     background-image: url(/images/Partner_1.svg);
     background-position: 0px 0px;

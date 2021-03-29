@@ -10,3 +10,9 @@
     text-decoration: none;
     color: #999DA5
 }
+
+@media screen and (max-width: 991px) {
+    .bar__link {
+        display: none;
+    }
+}

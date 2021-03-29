@@ -12,5 +12,13 @@
     border-radius: 0px;
     background-image: url(/images/b_1.svg);
     background-position: 0px 0px;
-    background-size: auto;
+    background-size: cover;
+}
+
+@media screen and (max-width: 991px) {
+    .formats__icon {
+        width: 90px;
+        height: 90px;
+        margin-top: -50px
+    }
 }

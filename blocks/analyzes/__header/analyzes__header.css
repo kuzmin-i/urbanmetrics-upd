@@ -25,7 +25,14 @@
     background-color: hsla(0, 0%, 59.3%, 0);
     background-image: url(/images/Arrow-down.svg);
     background-position: 0px 0px;
-    background-size: auto;
+    background-size: contain;
+}
+
+@media screen and (max-width: 991px) {
+    .analyzes__header--arrow {
+        width: 25px;
+        height: 16.6px
+    } 
 }
 
 .analyzes__header--arrow.r {
