@@ -28,3 +28,12 @@
     }
 }
 
+@media screen and (max-width: 991px) {
+    .cover__image { 
+        left: 80px;
+        width: 200vw;
+        height: 153vw;
+        opacity: 0;
+    }
+}
+

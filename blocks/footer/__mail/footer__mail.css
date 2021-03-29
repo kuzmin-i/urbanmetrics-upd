@@ -4,3 +4,9 @@
     color: white;
     margin: 0;
 }
+
+@media screen and (max-width: 478px) {
+    .footer__mail {
+      font-size: 17px;
+  }
+}

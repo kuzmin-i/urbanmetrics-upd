@@ -1,6 +1,6 @@
 .form__settings {
     display: block;
-    width: 336px;
+    width: 100%;
     grid-auto-columns: 1fr;
     grid-template-areas: "Area Area";
     -ms-grid-columns: 1fr 264px 264px;
@@ -9,8 +9,7 @@
     grid-template-rows: 60px 50px;
 }
 
-@media screen and (max-width: 991px) {
-    .form__settings {
-        width: 250px
-    }
+.form__settings.f2 {
+    grid-template-areas: "Area Area";
 }
+

@@ -3,16 +3,47 @@
     margin-top: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
+    display: -ms-grid;
+    display: grid;
     margin-top: 0px;
     grid-auto-flow: row;
     grid-auto-columns: 1fr;
-    grid-template-areas: ".";
-    -ms-grid-columns: 335px 805px;
-    grid-template-columns: 335px 805px;
-    -ms-grid-rows: 500px;
-    grid-template-rows: 500px;
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    -ms-grid-columns: 335px 15px auto;
+    grid-template-columns: 335px auto;
+    -ms-grid-rows: 48px 16px auto;
+    grid-template-rows: 48px auto;
+}
+
+@media screen and (min-width: 991px) {
+    .form__group { 
+        grid-template-areas: ". Area"
+        ". Area";
+    }
+}
+
+@media screen and (min-width: 479px) and (max-width: 991px) {
+    .form__group {
+        -ms-grid-columns: 250px 15px auto;
+        grid-template-columns: 250px auto;
+        grid-template-areas: ". Area"
+        ". Area";
+    }
+}
+
+@media screen and (max-width: 478px) {
+    .form__group {
+        height: auto;
+        display: -ms-grid;
+        display: grid;
+        grid-auto-columns: 1fr;
+        grid-column-gap: 10px;
+        grid-row-gap: 20px;
+        -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+        -ms-grid-rows: 48px 50vh auto;
+        grid-template-rows: 48px 50vh auto;
+        grid-template-areas: none;
+    }
 }

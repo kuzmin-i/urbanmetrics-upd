@@ -5,3 +5,9 @@
     line-height: 110%;
     margin: 0;
 }
+
+@media screen and (max-width: 478px) {
+    .footer__logo {
+      font-size: 11vw;
+  }
+}

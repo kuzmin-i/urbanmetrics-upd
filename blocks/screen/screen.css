@@ -8,3 +8,9 @@
     overflow: visible;
     margin-top: 170px
 }
+
+@media screen and (max-width: 478px) {
+    .screen {
+        margin-top: 100px 
+    }
+}

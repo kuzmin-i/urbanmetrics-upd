@@ -108,8 +108,18 @@ export default function Main({ onOrderSuccess }) {
 
   return (
     <main className="form__group">
-      <div className="form__settings">
-          <PlaceForm
+      <div className="form__settings f1">
+        <div className="form__address" id="geocoder__container" />
+      </div>
+      
+        
+        <MapComponent
+          handleUpdateArea={handleUpdateArea}
+          handleUpdateCoordinates={handleUpdateCoordinates}
+        />
+
+        <div className="form__settings f2">
+        <PlaceForm
             handleUpdateScale={handleUpdateScale}
             handleUpdateFormat={handleUpdateFormat}
             handleUpdateType={handleUpdateType}
@@ -138,11 +148,7 @@ export default function Main({ onOrderSuccess }) {
           >
             Заказать карту
           </button>
-        </div>
-        <MapComponent
-          handleUpdateArea={handleUpdateArea}
-          handleUpdateCoordinates={handleUpdateCoordinates}
-        />
+      </div>
         
         
     </main>

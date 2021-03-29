@@ -2,3 +2,9 @@
     margin-top: 270px !important;
     color: white
 }
+
+@media screen and (max-width: 478px) {
+    .screen--analyzes {
+        margin-top: 100px !important;
+    }
+}

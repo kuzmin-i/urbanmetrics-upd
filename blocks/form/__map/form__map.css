@@ -1,6 +1,25 @@
 .form__map {
     width: 100%;
     height: 100%;
-    margin-left: 10px;
     border-radius: 10px;
+}
+
+@media screen and (min-width: 479px) {
+    .form__map {
+        -ms-grid-row: 1;
+        -ms-grid-column: 1;
+        -ms-grid-column-span: 2;
+        grid-area: Area;
+        grid-row-start: Area;
+        grid-column-start: Area;
+        grid-row-end: Area;
+        grid-column-end: Area;
+    }
+}
+
+@media screen and (max-width: 478px) {
+    .form__map {
+        width: 100%;
+        height: 100%;
+    }
 }

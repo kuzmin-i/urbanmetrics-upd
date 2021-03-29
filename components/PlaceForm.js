@@ -10,7 +10,7 @@ export default function PlaceForm({
 }) {
   return (
     <div className="form__inputs">
-      <div className="form__address" id="geocoder__container" />
+      
       <fieldset className="form__selectors">
         <select
           className="form__selector"
