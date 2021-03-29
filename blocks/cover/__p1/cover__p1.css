@@ -2,3 +2,10 @@
     max-width: 600px;
     min-width: 600px;
 }
+
+@media screen and (max-width: 478px) {
+    .cover__p1 {
+        max-width: 100%;
+        min-width: 100%;
+    } 
+}

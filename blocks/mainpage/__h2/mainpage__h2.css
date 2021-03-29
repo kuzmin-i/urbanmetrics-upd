@@ -5,8 +5,14 @@
     letter-spacing: 0px;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (mi-width: 479px) and (max-width: 991px) {
     .mainpage__h2 {
         font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 478px) {
+    .mainpage__h2 {
+        font-size: 32px;
     }
 }

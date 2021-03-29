@@ -23,3 +23,9 @@
     border-radius: 25px;
     background-color: #0f2953;
 }
+
+@media screen and (max-width: 478px) {
+    .analyzes {
+        padding: 70px 15px 20px;
+    }
+}

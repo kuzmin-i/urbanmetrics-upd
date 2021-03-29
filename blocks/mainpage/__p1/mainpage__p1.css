@@ -4,3 +4,10 @@
     font-weight: medium;
     letter-spacing: -0.3px;
 }
+
+@media screen and (max-width: 478px) {
+    .mainpage__p1 { 
+        font-size: 22px;
+    }
+
+}

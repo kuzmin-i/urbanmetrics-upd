@@ -3,3 +3,9 @@
     line-height: 160%;
     font-weight: 500;
 }
+
+@media screen and (max-width: 478px) {
+    .mainpage__p4 {
+        font-size: 14px;
+    }
+}

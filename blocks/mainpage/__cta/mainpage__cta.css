@@ -16,6 +16,12 @@
       
 }
 
+@media screen and (max-width: 478px) {
+    .mainpage__cta {
+        font-size: 18px;
+    }
+}
+
 .mainpage__cta:hover {
     background-color: #e36951;
     text-decoration: none;

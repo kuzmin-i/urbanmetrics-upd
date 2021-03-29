@@ -5,3 +5,9 @@
     line-height: 160%;
     font-weight: 400;
 }
+
+@media screen and (max-width: 478px) {
+    .analyzes__comment {
+        font-size: 16px;
+    }
+}

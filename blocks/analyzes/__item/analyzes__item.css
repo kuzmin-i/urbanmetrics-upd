@@ -3,3 +3,11 @@
     margin-bottom: 55px;
     margin-left: auto;
 }
+
+@media screen and (max-width: 478px) {
+    .analyzes__item {
+        margin-right: auto;
+        margin-bottom: 40px;
+        margin-left: auto;
+    }
+}

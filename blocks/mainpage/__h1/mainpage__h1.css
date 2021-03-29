@@ -10,3 +10,13 @@
     margin-top: 0px !important;
     font-size: 60px !important;
   }
+
+@media screen and (max-width: 478px) {
+    .mainpage__h1 {
+        font-size: 3.7rem;
+    }
+
+    .mainpage__h1.footer {
+      font-size: 3.4rem;
+  }
+}

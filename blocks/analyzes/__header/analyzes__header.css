@@ -28,10 +28,17 @@
     background-size: contain;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (min-width: 479px) and (max-width: 991px) {
     .analyzes__header--arrow {
         width: 25px;
         height: 16.6px
+    } 
+}
+
+@media screen and (max-width: 478px) {
+    .analyzes__header--arrow {
+        width: 20px;
+        height: 13.3px
     } 
 }
 
