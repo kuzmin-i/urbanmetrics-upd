@@ -24,5 +24,6 @@
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
         flex-direction: column;
+        padding: 40px 60px;
     }
 }

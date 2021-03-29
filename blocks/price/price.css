@@ -32,8 +32,8 @@
 
 @media screen and (max-width: 991px) {
     .price {
-        margin-left: -8%;
-        width: 116%;
+        margin-left: 0;
+        width: 100%;
         -ms-grid-columns: 1fr 30px 1fr 30px 1fr;
         grid-template-columns: 1fr 30px 1fr 30px 1fr;
     } 

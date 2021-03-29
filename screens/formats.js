@@ -11,7 +11,7 @@ const FormatsScreen = ({ formatexport }) => {
             {a.description.map((b, desc_i) => {
               return (
                 <span key={desc_i}>
-                  {b} <br />
+                  {b + " "} 
                 </span>
               )
             })}

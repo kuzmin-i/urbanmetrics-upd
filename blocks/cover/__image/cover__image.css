@@ -12,8 +12,3 @@
     background-size: cover;
 }
 
-@media (max-width: 1000px) {
-    .cover__image {
-        display: none
-    }
-}
