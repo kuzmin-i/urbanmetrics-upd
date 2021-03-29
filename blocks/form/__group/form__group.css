@@ -9,10 +9,10 @@
     grid-auto-flow: row;
     grid-auto-columns: 1fr;
     grid-column-gap: 15px;
-    grid-row-gap: 15px;
+    grid-row-gap: 0px;
     -ms-grid-columns: 335px 15px auto;
     grid-template-columns: 335px auto;
-    -ms-grid-rows: 48px 16px auto;
+    -ms-grid-rows: 48px 0px auto;
     grid-template-rows: 48px auto;
 }
 
@@ -42,7 +42,7 @@
         grid-row-gap: 20px;
         -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
-        -ms-grid-rows: 48px 50vh auto;
+        -ms-grid-rows: 48px 60vh auto;
         grid-template-rows: 48px 50vh auto;
         grid-template-areas: none;
     }
