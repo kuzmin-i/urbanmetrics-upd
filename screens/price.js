@@ -61,7 +61,9 @@ const PriceScreen = ({ price }) => {
 
       <h2 className="mainpage__h2 white">{maintitle}</h2>
 
-      <div className="price">{cardComponent}</div>
+      <div className="price__frame">
+        <div className="price">{cardComponent}</div>
+      </div>
     </div>
   )
 }

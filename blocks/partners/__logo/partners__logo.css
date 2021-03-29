@@ -13,10 +13,17 @@
     }
 }
 
-@media (max-width: 991px) {
+@media screen and (min-width: 479px) and (max-width: 991px) {
     .partners__logo {
         width: 24.3vw;
         height: 10.6vw;
+    }
+}
+
+@media screen and (max-width: 478px) {
+    .partners__logo {
+        width: 39vw;
+        height: 17.03vw;
     }
 }
 

@@ -10,7 +10,7 @@
     border-radius: 25px;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (min-width: 479px) and (max-width: 991px) {
     .formats__card {
         margin-top: 70px;
         padding-bottom: 50px;
@@ -18,5 +18,17 @@
         -webkit-flex: 0 auto;
         -ms-flex: 0 auto;
         flex: 0 auto;
+    }
+}
+
+@media screen and (max-width: 478px) {
+    .formats__card {
+        margin-top: 70px;
+        padding-bottom: 50px;
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 auto;
+        -ms-flex: 0 auto;
+        flex: 0 auto;
+        padding: 103px 10px 80px;
     }
 }

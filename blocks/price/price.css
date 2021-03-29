@@ -1,3 +1,5 @@
+@import "__frame/price__frame.css";
+
 @import "__card/price__card.css";
 @import "__gap/price__gap.css";
 
@@ -36,5 +38,11 @@
         width: 100%;
         -ms-grid-columns: 1fr 30px 1fr 30px 1fr;
         grid-template-columns: 1fr 30px 1fr 30px 1fr;
+    } 
+}
+
+@media screen and (max-width: 478px) {
+    .price {
+        width: 800px;
     } 
 }

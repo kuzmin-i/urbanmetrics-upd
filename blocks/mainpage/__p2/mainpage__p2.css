@@ -4,8 +4,14 @@
     font-weight: 500;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (min-width: 479px) and (max-width: 991px) {
     .mainpage__p2 {
         font-size: 19px
+    } 
+}
+
+@media screen and (max-width: 478px) {
+    .mainpage__p2 {
+        font-size: 17px
     } 
 }

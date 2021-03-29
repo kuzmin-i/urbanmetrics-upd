@@ -10,8 +10,14 @@
     clear: none;
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (min-width: 479px) and (max-width: 991px) {
     .formats__cta {
         font-size: 19px
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .formats__cta {
+        font-size: 17px
     }
 }
